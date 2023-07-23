@@ -8,3 +8,6 @@
     <artifactId>Sweepstakes</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
+
+
+    <dependencies>
