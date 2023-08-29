@@ -49,3 +49,4 @@
 
         <!-- LOMBOK -->
         <dependency>
+            <groupId>org.projectlombok</groupId>
