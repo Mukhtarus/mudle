@@ -110,3 +110,4 @@
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-core -->
+        <dependency>
