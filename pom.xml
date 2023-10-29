@@ -118,3 +118,4 @@
 
 
         <!-- API, java.xml.bind module -->
+        <dependency>
