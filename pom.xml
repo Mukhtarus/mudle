@@ -125,3 +125,4 @@
         </dependency>
 
         <!-- Runtime, com.sun.xml.bind module -->
+        <dependency>
