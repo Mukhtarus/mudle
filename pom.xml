@@ -136,3 +136,4 @@
 
     <build>
         <finalName>sweepstakes</finalName>
+        <plugins>
