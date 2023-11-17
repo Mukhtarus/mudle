@@ -140,3 +140,4 @@
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
                 <configuration>
+                    <source>11</source>
